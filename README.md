@@ -13,9 +13,8 @@
 
 <p align="left">
   <a href="https://github.com/Lea-Bramoulle"><span>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Lea-Bramoulle&count_private=true&show_icons=true&theme=buefy&&include_all_commits=true"/>
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lea-Bramoulle&theme=buefy" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lea-Bramoulle&theme=buefy" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Lea-Bramoulle&count_private=true&show_icons=true&theme=buefy&&include_all_commits=true"/>
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lea-Bramoulle&theme=buefy" />
     </span></a>
 </p>
 
