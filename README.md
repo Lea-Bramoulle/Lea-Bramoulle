@@ -1,4 +1,4 @@
-<h3 align="center">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France :bread:.</h3>
+<h1 align="center">I am a Full Stack Developer from France <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :bread:.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lea-bramoulle&label=Profile%20views&color=0e75b6&style=flat" alt="lea-bramoulle" /> </p>
 
