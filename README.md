@@ -12,3 +12,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lea-bramoulle&theme=buefy&show_icons=true)
+![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lea-Bramoulle&theme=buefy))
+
+
