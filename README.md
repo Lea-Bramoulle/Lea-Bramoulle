@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer, specialised in ReactJs</h3>
+<h3 align="center">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France :bread:.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lea-bramoulle&label=Profile%20views&color=0e75b6&style=flat" alt="lea-bramoulle" /> </p>
 
