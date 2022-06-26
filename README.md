@@ -1,4 +1,4 @@
-<h1 align="center">:wave: I am a Full Stack Developer from France <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="30"> :bread:.</h1>
+<h1 align="center">:wave: I am a Full Stack Developer from France <img src="[https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)" width="30"> :bread:.</h1>
 
 
 - 🔭 I’m currently working on **various development projects made in Javascript and Ruby**
